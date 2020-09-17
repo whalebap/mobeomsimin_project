@@ -1,0 +1,23 @@
+.storeTotal-h5 {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.storeTotal-h6 {
+    margin-left: 30px;
+}
+
+#storeTotal-select-local {
+    margin-top: 20px;
+    margin-left: 30px;
+    height: 40px;
+}
+
+.storeTotalLocal-Line {
+    width: 100%;
+
+}
+
+.store-chartData {
+    width: 90%;
+}

@@ -1,0 +1,43 @@
+.content-title {
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+
+.menu-h2 {
+    display: inline;
+    margin-right: 2rem;
+}
+
+#select-search-bar {
+    float: right;
+    margin-bottom: 5px;
+}
+
+#select {
+    display: inline-block;
+    width: 120px;
+    margin-right: 5px;
+}
+
+#search-bar {
+    display: inline-block;
+    width: 300px;
+}
+
+#button-right {
+    float: right;
+    margin-top: 0;
+}
+
+#button-center {
+    text-align: center;
+}
+
+#quill-button-center {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+
